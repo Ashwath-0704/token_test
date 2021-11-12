@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+#new line is added 
 for file in `ls *.txt`
 
 do
